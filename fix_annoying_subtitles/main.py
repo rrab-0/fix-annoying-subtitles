@@ -8,7 +8,7 @@
 
 import re
 
-TEXT = r'Subtitle_1.srt'
+TEXT = r'Subtitle_1_2.srt'
 
 # def no_dash():
 #     eng_sub = open(TEXT).read()
