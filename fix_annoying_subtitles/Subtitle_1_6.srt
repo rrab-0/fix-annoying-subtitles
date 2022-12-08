@@ -588,7 +588,7 @@ long after everything else is fried.
 
 137
 00:07:54,00 --> 00:07:55,87
-(OVER RADIO) <i>Valley-One. Valley-One.</i>
+ <i>Valley-One. Valley-One.</i>
 
 138
 00:07:55,87 --> 00:07:58,33
@@ -1161,7 +1161,7 @@ You're stalling.
 
 274
 00:18:36,62 --> 00:18:38,08
-(OVER RADIO) <i>Echo-One.</i>
+ <i>Echo-One.</i>
 
 275
 00:18:38,66 --> 00:18:39,70
@@ -1841,7 +1841,7 @@ Let's go!
 
 432
 00:28:41,62 --> 00:28:45,79
-(OVER RADIO) <i>Echo-One. Echo-One,
+ <i>Echo-One. Echo-One,
 on spot. Echo-One. Echo-One, on spot.</i>
 
 433
@@ -1910,7 +1910,7 @@ Let's go! Let's go!
 
 447
 00:29:31,12 --> 00:29:33,50
-(OVER RADIO) <i>Tower One,
+ <i>Tower One,
 this is Alkenzi Wing Command.</i>
 
 448

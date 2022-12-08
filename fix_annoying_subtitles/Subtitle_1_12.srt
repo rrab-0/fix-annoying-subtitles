@@ -375,7 +375,7 @@ how tired of this I am?
 
 87
 00:08:30,66 --> 00:08:31,91
-(OVER SPEAKER) <i>It's a lie.</i>
+ <i>It's a lie.</i>
 
 88
 00:08:31,91 --> 00:08:33,62
@@ -430,7 +430,7 @@ You promised.
 
 99
 00:09:00,25 --> 00:09:02,12
-(OVER SPEAKER) <i>He can't hear me.</i>
+ <i>He can't hear me.</i>
 
 100
 00:09:03,54 --> 00:09:04,54
@@ -1040,7 +1040,7 @@ He's been talking her down.
 
 242
 00:17:27,12 --> 00:17:30,33
-(OVER SPEAKER) <i>I just wish
+ <i>I just wish
 I had been part of the conversation, sir.</i>
 
 243
@@ -1079,7 +1079,7 @@ That's not him.
 
 251
 00:18:48,25 --> 00:18:50,16
-(OVER COMMS) <i>Sir?</i>
+ <i>Sir?</i>
 The big man.
 
 252
@@ -1332,7 +1332,7 @@ I'm not sure.
 
 309
 00:24:45,58 --> 00:24:46,87
-(OVER COMMS) <i>I can hear music, sir.</i>
+ <i>I can hear music, sir.</i>
 
 310
 00:26:07,45 --> 00:26:08,83

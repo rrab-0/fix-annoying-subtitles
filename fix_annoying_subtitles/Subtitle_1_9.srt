@@ -1290,7 +1290,7 @@ But you've got to admit...
 
 294
 00:18:52,58 --> 00:18:53,91
-(ON PA) <i>Stand in place.</i>
+ <i>Stand in place.</i>
 
 295
 00:18:53,91 --> 00:18:56,91
@@ -2812,7 +2812,7 @@ Let's go.
 
 644
 00:37:30,58 --> 00:37:32,16
-(ON PA) <i>Inmates, on program.</i>
+ <i>Inmates, on program.</i>
 
 645
 00:37:32,16 --> 00:37:33,54
