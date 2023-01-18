@@ -1,4 +1,4 @@
-# Fixes annoying (for me) subtitles
+# Fixes annoying (annoying for me at least) subtitles
 
 Subtitles sometimes has 
 (.*) which make sense for people with hard hearing
