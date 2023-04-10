@@ -1,9 +1,12 @@
 # finds if there's (TEXTexample) and -(TEXTexample)
 # then deletes them and characters inside them too
 # !!didnt work this time idk what happened!!
+# it works bro idk what ^ ur talking about
+# accepts only .srt format
 
 import re
 
+print('type in the file (srt format) name including .srt')
 file_name = input()
 
 
